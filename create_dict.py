@@ -1,11 +1,5 @@
 # -*- coding: cp936 -*-
 import requests
-'''
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
-print("SUCCESS")
-'''
 headers = {
     'X-Requested-With': 'XMLHttpRequest',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
